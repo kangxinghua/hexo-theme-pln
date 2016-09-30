@@ -2,13 +2,13 @@ menu:
   主页: /
   归档: /archives
 
-logo: XXX
+logo: 康兴华
 
 more:
   友情链接: /links.html
-  Github: https://github.com/XXX/
-  微博: http://weibo.com/XXX
-  知乎: https://www.zhihu.com/people/XXX
+  Github: https://github.com/kangxinghua/
+  微博: http://weibo.com/kangxinghua
+  知乎: https://www.zhihu.com/people/kangxinghua
   rss: /rss2.xml
   关于我: /
 
@@ -20,4 +20,4 @@ disqus_shortname:
 
 excerpt_num: 120
 
-footer_info: © XXX 2015-2016
+footer_info: © Simba 2015-2016
